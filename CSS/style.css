@@ -63,6 +63,7 @@ main {
 
 .main1 {
     max-width: 450px;
+    height: 250;
 }
 
 .main2 {
@@ -135,4 +136,8 @@ a {
 
 img { 
     margin-left: 5px;
+}
+
+.copyright {
+    margin-top: 200px;
 }
