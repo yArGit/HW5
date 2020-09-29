@@ -21,11 +21,13 @@ header {
 
 .hdr_img {
     display: flex;
+    flex-wrap: nowrap;
     margin-left: 150px; 
 }
 .hdr1{
     text-shadow: 0px 4px 4px black;
     max-width: 450px;
+    flex-shrink: 0;
 
 }
 
